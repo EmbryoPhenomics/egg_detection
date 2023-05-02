@@ -6,18 +6,18 @@ This repository includes training and inference code, as well as pre-trained wei
 
 | name | resolution | accuracy | #params | model |
 |:---:|:---:|:---:|:---:| :---:|
-| Xception | 512x512 | 98.1 | 21M | [model]('https://github.com/EmbryoPhenomics/egg_detection/releases/download/v0.1/Xception_512_lymnaea.h5') 
-| ResNet50 | 512x512 | 84.9 | 24M | [model]('https://github.com/EmbryoPhenomics/egg_detection/releases/download/v0.1/ResNet50_512_lymnaea.h5')
-| ResNet101 | 512x512 | 83.6 | 43M | [model]('https://github.com/EmbryoPhenomics/egg_detection/releases/download/v0.1/ResNet101_512_lymnaea.h5')
-| InceptionV3 | 512x512 | 87.4 | 22M | [model]('https://github.com/EmbryoPhenomics/egg_detection/releases/download/v0.1/InceptionV3_512_lymnaea.h5')
-| InceptionResNetV2 | 512x512 | 85.0 | 54M | [model]('https://github.com/EmbryoPhenomics/egg_detection/releases/download/v0.1/InceptionResNetV2_512_lymnaea.h5')
-| MobileNet | 512x512 | 96.6 | 3M | [model]('https://github.com/EmbryoPhenomics/egg_detection/releases/download/v0.1/MobileNet_512_lymnaea.h5')
-| DenseNet121 | 512x512 | 97.9 | 7M | [model]('https://github.com/EmbryoPhenomics/egg_detection/releases/download/v0.1/DenseNet121_512_lymnaea.h5')
-| NASNetMobile | 512x512 | 82.9 | 4M | [model]('https://github.com/EmbryoPhenomics/egg_detection/releases/download/v0.1/NASNetMobile_512_lymnaea.h5')
-| EfficientNetB0 | 512x512 | 97.6 | 4M | [model]('https://github.com/EmbryoPhenomics/egg_detection/releases/download/v0.1/EfficientNetB0_512_lymnaea.h5')
-| EfficientNetV2B0 | 512x512 | 97.4 | 6M | [model]('https://github.com/EmbryoPhenomics/egg_detection/releases/download/v0.1/EfficientNetV2B0_512_lymnaea.h5')
-| EfficientNetV2S | 512x512 | 98.3 | 20M | [model](https://github.com/EmbryoPhenomics/egg_detection/releases/download/v0.1/EfficientNetV2S_512_lymnaea.h5')
-| EfficientNetV2M | 512x512 | 98.1 | 53M | [model]('https://github.com/EmbryoPhenomics/egg_detection/releases/download/v0.1/EfficientNetV2M_512_lymnaea.h5')
+| Xception | 512x512 | 98.1 | 21M | [model](https://github.com/EmbryoPhenomics/egg_detection/releases/download/v0.1/Xception_512_lymnaea.h5) 
+| ResNet50 | 512x512 | 84.9 | 24M | [model](https://github.com/EmbryoPhenomics/egg_detection/releases/download/v0.1/ResNet50_512_lymnaea.h5)
+| ResNet101 | 512x512 | 83.6 | 43M | [model](https://github.com/EmbryoPhenomics/egg_detection/releases/download/v0.1/ResNet101_512_lymnaea.h5)
+| InceptionV3 | 512x512 | 87.4 | 22M | [model](https://github.com/EmbryoPhenomics/egg_detection/releases/download/v0.1/InceptionV3_512_lymnaea.h5)
+| InceptionResNetV2 | 512x512 | 85.0 | 54M | [model](https://github.com/EmbryoPhenomics/egg_detection/releases/download/v0.1/InceptionResNetV2_512_lymnaea.h5)
+| MobileNet | 512x512 | 96.6 | 3M | [model](https://github.com/EmbryoPhenomics/egg_detection/releases/download/v0.1/MobileNet_512_lymnaea.h5)
+| DenseNet121 | 512x512 | 97.9 | 7M | [model](https://github.com/EmbryoPhenomics/egg_detection/releases/download/v0.1/DenseNet121_512_lymnaea.h5)
+| NASNetMobile | 512x512 | 82.9 | 4M | [model](https://github.com/EmbryoPhenomics/egg_detection/releases/download/v0.1/NASNetMobile_512_lymnaea.h5)
+| EfficientNetB0 | 512x512 | 97.6 | 4M | [model](https://github.com/EmbryoPhenomics/egg_detection/releases/download/v0.1/EfficientNetB0_512_lymnaea.h5)
+| EfficientNetV2B0 | 512x512 | 97.4 | 6M | [model](https://github.com/EmbryoPhenomics/egg_detection/releases/download/v0.1/EfficientNetV2B0_512_lymnaea.h5)
+| EfficientNetV2S | 512x512 | 98.3 | 20M | [model](https://github.com/EmbryoPhenomics/egg_detection/releases/download/v0.1/EfficientNetV2S_512_lymnaea.h5)
+| EfficientNetV2M | 512x512 | 98.1 | 53M | [model](https://github.com/EmbryoPhenomics/egg_detection/releases/download/v0.1/EfficientNetV2M_512_lymnaea.h5)
 
 
 ### Lymnaea stagnalis image dataset
