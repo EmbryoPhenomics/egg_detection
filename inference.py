@@ -66,7 +66,7 @@ for i, batch in enumerate(data):
         x1,y1,x2,y2 = r
         x1,y1,x2,y2 = x1-5,y1-5,x2+5,y2+5 # Expand bbox slightly
         
-        # Note this is expects a certain 
+        # Note this is expects a certain string format, see above in parameters
         replicate = str.split(fn, '/')[-1]
         genotype = str.split(replicate, '_')[0]
         timepoint = str.split(replicate, '_')[-1]
